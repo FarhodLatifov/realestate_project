@@ -1,0 +1,7 @@
+<svg width="260" height="72" viewBox="0 0 260 72" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="260" height="72" rx="14" fill="#111111"/>
+  <path d="M32 52V20L58 52V20" stroke="#C8A45D" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M76 52V20H104C112 20 118 26 118 34C118 42 112 48 104 48H88" stroke="#FFFFFF" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="138" y="34" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="2">NOVA</text>
+  <text x="138" y="55" fill="#C8A45D" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="600" letter-spacing="3">RESIDENCE</text>
+</svg>

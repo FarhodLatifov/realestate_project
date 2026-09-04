@@ -1,0 +1,19 @@
+# Nova Residence — Премиальная недвижимость в Metropolis Capital
+
+> Официальный каталог клубных жилых комплексов, резиденций и пентхаусов от девелопера Nova Residence.
+
+## О проекте
+Nova Residence создает знаковые жилые кварталы мирового уровня: от клубных домов на набережной до приватных резиденций с парками. Беспроцентная рассрочка 0% до 36 месяцев напрямую от застройщика.
+
+## Ключевые разделы
+- [Каталог жилых комплексов](https://nova-residence.example/#projects): Коллекция новостроек De Luxe, Premium и Business класса.
+- [Инфраструктура и удобства](https://nova-residence.example/#amenities): Infinity Pool, закрытый парк 1.2 га, Smart Home, Face ID.
+- [Инженерные стандарты](https://nova-residence.example/#standards): Шумоизоляция 54 дБ, очистка воздуха PM2.5, Guardian Glass.
+- [Каталог планировок](https://nova-residence.example/#apartments): Квартиры от 1 до 4 комнат и пентхаусы с террасами.
+- [Ипотечный и рассрочный калькулятор](https://nova-residence.example/#calculator): Расчет ежемесячного платежа без банков и переплат.
+- [Локация и генплан](https://nova-residence.example/#map): Расположение кварталов в престижных районах Metropolis.
+
+## Контакты
+- Телефон: +992 90 777 2233
+- Адрес: Metropolis Capital, Проспект Мира 42
+- Email: sales@novaresidence.example
